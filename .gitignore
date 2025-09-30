@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+00_TEST/
+00_memo.txt
